@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://j1nbo.github.io</id>
     <title>J1n</title>
-    <updated>2020-06-04T05:45:29.822Z</updated>
+    <updated>2020-06-11T10:00:44.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://j1nbo.github.io"/>
     <link rel="self" href="https://j1nbo.github.io/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://j1nbo.github.io/images/avatar.png</logo>
     <icon>https://j1nbo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, J1n</rights>
+    <entry>
+        <title type="html"><![CDATA[机箱散热改造日记]]></title>
+        <id>https://j1nbo.github.io/ji-xiang-san-re-gai-zao-ri-ji/</id>
+        <link href="https://j1nbo.github.io/ji-xiang-san-re-gai-zao-ri-ji/">
+        </link>
+        <updated>2020-06-11T10:00:08.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[群晖支持ONVIF协议的摄像头]]></title>
+        <id>https://j1nbo.github.io/qun-hui-zhi-chi-onvif-xie-yi-de-she-xiang-tou/</id>
+        <link href="https://j1nbo.github.io/qun-hui-zhi-chi-onvif-xie-yi-de-she-xiang-tou/">
+        </link>
+        <updated>2020-06-11T09:56:16.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<blockquote>
+<p>先前找POE供电 又支持群晖的摄像头 顺便找出来了</p>
+</blockquote>
+</blockquote>
+<ol>
+<li>萤石C6TC</li>
+<li>海康DS-2DC2402IW-D3/W</li>
+<li>foscam IQ200(c2) 1080P  120广角 移动侦测 双向通话 网线 无线双连接 （但没有云台）夜视</li>
+<li>FOSCAM EF8166  FOSCAM R2 高清网络摄像头 1080p无线摄像头手机监控 群晖威联通</li>
+<li>EH8155 （有云台） 亲测，支持。事实只要符合ONVIF的，群晖都支持。EH8135足矣。</li>
+<li>FI9826P</li>
+<li>FOSCAM EF8166 R2</li>
+<li>EF8199</li>
+<li>FOSCAM福斯康姆 720p无线百万高清插卡网络摄像机 FI9821P=HD816P</li>
+<li>Foscam FI9831P 130万高清网络摄像机 无线摄像头 手机监控EH8165  8165</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://j1nbo.github.io/ce-shi/</id>
